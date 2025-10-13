@@ -134,4 +134,5 @@ serverless remove
 
 **Note:** This removes Lambda functions, API Gateway, IAM roles, and S3 bucket. Double-check your AWS console to ensure complete cleanup.
 
+This project was create by using https://github.com/iopipe/lambda-workshop.git as our reference. 
 ---
